@@ -16,7 +16,7 @@ To get started, clone this repository and install the required packages.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/media-management-api.git
+git clone https://github.com/Ankitjarwall/TimeStamps
 cd media-management-api
 ```
 
@@ -109,10 +109,6 @@ Here are the main endpoints available in the API:
 ## 🛠️ Contributing
 
 Contributions are welcome! Please create a pull request for any enhancements or bug fixes.
-
-## 📧 Contact
-
-For any inquiries, please reach out via email at [your_email@example.com](mailto:your_email@example.com).
 
 ## 🎉 Happy Coding!
 ```
