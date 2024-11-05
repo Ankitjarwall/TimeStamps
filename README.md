@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Media Management API
 
 Welcome to the **Media Management API**! This FastAPI application allows you to manage media items and their associated timestamps securely. The API supports user authentication and role-based access control, enabling different functionalities for admin and regular users.
